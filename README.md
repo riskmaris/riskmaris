@@ -5,8 +5,8 @@
 
 - I am currently studying in Microverse.
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me **anshumannegi777@gmail.com**
-- ⚡ Fun fact **I am a gamer.**
+- 📫 How to reach me **mariskaps20@gmail.com**
+- ⚡ Fun fact **I Love recreation.**
 <br/><br/>
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,24 +25,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshumannegi108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshumannegi108" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anshuman-singh-negi-33779a224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman singh negi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Anshuman_Negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anshuman_negi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maris-kapuka-375ba1263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman singh negi" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anshuman_negi" height="30" width="40" /></a>
 
   ## &#x1f4c8; GitHub Stats
 <div align='center'>
-  <a href="https://github.com/anshuman7negi">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=anshuman7negi&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+  <a href="https://github.com/riskmaris">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=riskmaris&show_icons=true&include_all_commits=true&theme=midnight-purple" />
   </a> 
 
-  <a href="https://github.com/anshuman7negi">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman7negi&layout=compact&theme=midnight-purple" />
+  <a href="https://github.com/riskmaris">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskmaris&layout=compact&theme=midnight-purple" />
   </a>
 
 
   <div align="center">
-    <a href="https://github.com/anshuman7negi">
-      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman7negi&theme=midnight-purple" />
+    <a href="https://github.com/riskmaris">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=riskmaris&theme=midnight-purple" />
     </a>
   </div>   
 </div>
@@ -51,5 +50,5 @@
 
 <p align="center"> 
   You are visitor number: <br>
-  <img src="https://profile-counter.glitch.me/anshuman7negi/count.svg" />
+  <img src="https://profile-counter.glitch.me/riskmaris/count.svg" />
 </p>
