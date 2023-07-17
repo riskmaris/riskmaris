@@ -6,7 +6,7 @@
 - I am currently studying in Microverse.
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 How to reach me **mariskaps20@gmail.com**
-- ⚡ Fun fact **I Love recreation.**
+- ⚡ Fun fact **I Love recreation and FootBall.**
 <br/><br/>
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maris-kapuka-375ba1263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman singh negi" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anshuman_negi" height="30" width="40" /></a>
-
+<!-- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anshuman_negi" height="30" width="40" /></a>
+ -->
   ## &#x1f4c8; GitHub Stats
 <div align='center'>
   <a href="https://github.com/riskmaris">
